@@ -16,9 +16,11 @@ Esto te hara una copia de MagoPHP que es el sistema de base con el cual vamos a 
 git pull
 ```
 
+Esto te instalara las actualizaciones más recientes
+
 ## Sin actualización automática \(no recomendada\)
 
-Esto te instalara las actualizaciones más recientes, también puedes instalar el sistema cargado la última versión desde [https://github.com/magiaphp/magophp/releases](https://github.com/magiaphp/magophp/releases) alli tienes ficheros comprimidos, usa la versión más reciente.
+También puedes instalar el sistema cargado la última versión desde [https://github.com/magiaphp/magophp/releases](https://github.com/magiaphp/magophp/releases) alli tienes ficheros comprimidos, usa la versión más reciente.
 
 Desde la terminar vas a la carpeta donde desees crear la weby haces lo siguiente
 
