@@ -29,5 +29,7 @@ mv magophp-0.0.2/ www
 chmod -R 777 www
 ```
 
-&gt;Ahora ya puedes entrar en la web
+> Ahora ya puedes entrar en la web
+
+
 
