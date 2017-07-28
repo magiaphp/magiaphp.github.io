@@ -16,7 +16,7 @@ Esto te hara una copia de MagoPHP que es el sistema de base con el cual vamos a 
 git pull
 ```
 
-# Sin actualización automática \(no recomendada\)
+## Sin actualización automática \(no recomendada\)
 
 Esto te instalara las actualizaciones más recientes, también puedes instalar el sistema cargado la última versión desde [https://github.com/magiaphp/magophp/releases](https://github.com/magiaphp/magophp/releases) alli tienes ficheros comprimidos, usa la versión más reciente.
 
