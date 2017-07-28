@@ -10,11 +10,22 @@ Para poder tener actualizaciones del sistema de una forma facil, rapida procede 
 git clone https://github.com/magiaphp/magophp.git
 ```
 
-Esto te hara una copia de MagoPHP que es el sistema de base con el cual vamos a trabajar, cada vez que hay una actualización deberas hacer lo siguiente 
+Esto te hara una copia de MagoPHP que es el sistema de base con el cual vamos a trabajar, cada vez que hay una actualización deberas hacer lo siguiente
 
 ```
 git pull
 ```
 
-Esto te instalara las actualizaciones más recientes
+Esto te instalara las actualizaciones más recientes, también puedes instalar el sistema cargado la última versión desde [https://github.com/magiaphp/magophp/releases](https://github.com/magiaphp/magophp/releases) alli tienes ficheros comprimidos, usa la versión más reciente. 
+
+Desde la terminar puedes hacer lo siguiente 
+
+```
+wget https://github.com/magiaphp/magophp/archive/0.0.2.tar.gz
+tar zxf 0.0.2.tar.gz
+mv magophp-0.0.2/ web
+chmod -R 777 web
+```
+
+ahora ya puedes entrar en la web
 
