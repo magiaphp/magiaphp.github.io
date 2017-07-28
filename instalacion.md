@@ -1,6 +1,6 @@
 # Instalación
 
-Hay varias formas de instalar, depende si quieres tener actualizaciones
+Hay varias dos formas de instalar, depende si quieres tener actualizaciones
 
 ## Con actualizaciones
 
