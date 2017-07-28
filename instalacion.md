@@ -8,11 +8,13 @@ Para poder tener actualizaciones del sistema de una forma facil, rapida procede 
 
 ```
 git clone https://github.com/magiaphp/magophp.git
+mv magophp/ www
 ```
 
 Esto te hara una copia de MagoPHP que es el sistema de base con el cual vamos a trabajar, cada vez que hay una actualización deberas hacer lo siguiente
 
 ```
+cd /tuweb/www
 git pull
 ```
 
