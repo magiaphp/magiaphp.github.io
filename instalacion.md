@@ -2,7 +2,7 @@
 
 Hay varias dos formas de instalar, depende si quieres tener actualizaciones
 
-## Con actualizaciones
+## 1- Con actualizaciones
 
 Para poder tener actualizaciones del sistema de una forma facil, rapida procede de la siguiente manera
 
@@ -18,7 +18,7 @@ git pull
 
 Esto te instalara las actualizaciones más recientes
 
-## Sin actualización automática \(no recomendada\)
+## 2 -Sin actualización automática \(no recomendada\)
 
 También puedes instalar el sistema cargado la última versión desde [https://github.com/magiaphp/magophp/releases](https://github.com/magiaphp/magophp/releases) alli tienes ficheros comprimidos, usa la versión más reciente.
 
